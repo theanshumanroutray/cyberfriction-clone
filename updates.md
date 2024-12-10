@@ -1,0 +1,1 @@
+Smooth animation updated
